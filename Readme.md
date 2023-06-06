@@ -1,5 +1,6 @@
 
-  <img align="right" src="https://github.com/GisellyPereira/missao2/assets/116305443/e5b4ff3f-9ead-4b82-babb-e34186c710c8" alt='img'  width="400px" />
+
+  <img align="right" src="https://github.com/GisellyPereira/login-missao2/assets/116305443/c82f2d55-d7cc-4be0-8028-4264d05506b8" alt='img'  width="400px" />
 
 
 ### Projeto de página de login desenvolvido em React Native e utilizando o Expo Go.
