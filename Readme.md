@@ -1,6 +1,6 @@
 
 
-  <img align="right" src="https://github.com/GisellyPereira/login-missao2/assets/116305443/c82f2d55-d7cc-4be0-8028-4264d05506b8" alt='img'  width="400px" />
+  <img align="right" src="https://github.com/GisellyPereira/login-missao2/assets/116305443/c82f2d55-d7cc-4be0-8028-4264d05506b8" alt='img'  width="275px" />
 
 
 ### Projeto de página de login desenvolvido em React Native e utilizando o Expo Go.
@@ -18,6 +18,8 @@ Este projeto utiliza o native-base (https://docs.expo.io/), portanto, você prec
 * native-base
 * @expo/vector-icons
 * expo
+
+##
 
 🚨 Se você não tem o Git instalado em sua máquina, você pode obtê-lo [aqui](https://git-scm.com/downloads).
 
